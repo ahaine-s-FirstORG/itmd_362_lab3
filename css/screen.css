@@ -224,6 +224,15 @@ h1 {
 body {
   background-color: #D0CCCC;
 }
+p {
+  padding: 50px;
+}
+#input-age-verification {
+  padding: 50px;
+}
+label{
+  padding: 25px;
+}
 
 
   
