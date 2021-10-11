@@ -248,10 +248,16 @@ html {
 }
 /* ===== STATE STYLES ======= */
 @media only screen and (min-width: 992px) {
-  ol {
-	  width: 50%;
-  }
   input {
 	  width: 50%;
   }
-}
+  
+  p {
+	  font-size: 1.375em;
+  }
+  label {
+	  font-size: 0.825em;
+  }
+  #input-submit {
+	  font-size: 0.825em;
+  }
