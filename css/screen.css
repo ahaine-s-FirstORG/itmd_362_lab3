@@ -212,8 +212,10 @@ input {
   width: 95%;
   padding: 12px 12px;
   border: none;
+  margin: 8px 1.5%;
   background-color: #727272;
 }
+
 h1 {
   padding: 50px;
   border-radius: 5em;
@@ -227,15 +229,10 @@ body {
 p {
   padding: 50px;
 }
-#input-age-verification {
-  padding: 50px;
-}
-label{
-  padding: 25px;
-}
 
-
-  
+ol {
+  background-color: #9A9A9A;
+}
 
 /* ===== STATE STYLES ======= */
 
