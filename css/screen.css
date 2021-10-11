@@ -243,6 +243,7 @@ ol {
   font-size: 1.375em;
 }
 
-/* ===== STATE STYLES ======= */
+html {
+  font-family: Arial, Times New Roman, Roboto;
 
-  
+/* ===== STATE STYLES ======= */
