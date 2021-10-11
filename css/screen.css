@@ -228,10 +228,19 @@ body {
 }
 p {
   padding: 50px;
+  font-size: 2.292em;
+  line-height: 1em;
+ 
 }
 
 ol {
   background-color: #9A9A9A;
+  padding: 50px;
+}
+
+#input-submit {
+  line-height: 1em;
+  font-size: 1.375em;
 }
 
 /* ===== STATE STYLES ======= */
